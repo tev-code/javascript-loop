@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Jomhuria&display=swap");
+
+section{
+    background: black;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    font-family: 'Jomhuria', cursive;
+    font-size: 40px;
+    width: 100%;
+    margin: auto;
+    background: black;
+    color: whitesmoke;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+button {
+    font-family: 'Jomhuria', cursive;
+    background: green;
+    font-size: 30px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    width: 90px;
+    height: 45px;
+}
+
